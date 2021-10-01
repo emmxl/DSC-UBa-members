@@ -13,15 +13,9 @@
         "language": "PHP",
         "level": " Beginner"
     },
+    
     {  
-        "id":       null,
-        "name":       null,
-        "position":      null,   
-        "language":    null,
-        "level":    null
-    },
-    {  
-        "id":       1,
+        "id":       2,
         "name":       "Chelsea Banke",
         "position":      "Member",   
         "language":    "Python",
@@ -42,52 +36,59 @@
         "level":    "Intermediate"
     },
     {
-        "id":4,
+        "id":5,
         "name": "Nfon Jeannoel",
         "position":"member",   
         "language": "Python, kotlin",
         "level":"intermediate"
     },
     {
-        "id":5,
+        "id":6,
         "name": "yokwejuste5013",
         "position":"Core member",   
         "language": "Python, java, javascript, php",
         "level":"intermediate"
     },
     {
-        "id":5,
+        "id":7,
         "name": "Ngong Marcel Yiosimbom",
         "position":"member",   
         "language": "Python",
         "level":"beginner"
      },
      {  
-        "id":      6,
+        "id":      8,
         "name":      "Clifford Randy",
         "position":  "member",   
         "language":   "PHP",
         "level":    "Beginner"
     },
     {
-         "id":      7,
+         "id":      9,
         "name":      "Nfuh Anderson",
         "position":  "member",   
         "language":   "Python",
         "level":    "intermediate"
     },
     {
-         "id":      8,
+         "id":      10,
         "name":      "Elroy Kanye",
         "position":  "Core Team",   
         "language":   "Rust",
         "level":    "intermediate"
     },
     {
-         "id":      9,
+         "id":      11,
         "name":      "NDI Lionel",
         "position":  "Member",   
         "language":   "Javascript",
         "level":    "intermediate"
-    }
+    },
+     {  
+        "id": 12,
+        "name": "Emmanuel Warri",
+        "position": "Member",   
+        "language": "python",
+        "level": " Advanced"
+    },
 ]
